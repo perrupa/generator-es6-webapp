@@ -44,7 +44,7 @@ Skeleton is a lightweight alternative to Bootstrap. It features clean markup and
 
 ## Customize
 
-- Modify `.eslintrc` to change your eslint settings
+- Modify `.eslintrc` to change your eslint setting
 - All other settings can be changed in the Gulpfile
 
 ## Gulp Commands
